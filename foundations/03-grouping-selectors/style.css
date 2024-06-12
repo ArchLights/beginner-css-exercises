@@ -1,0 +1,14 @@
+.cl-one {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.cl-two {
+    background-color: yellow;
+}
+
+.shared {
+    font-size: 28px;
+    font-family: helvetica, 'times new roman', sans-serif;
+}
